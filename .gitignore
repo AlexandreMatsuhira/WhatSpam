@@ -1,3 +1,4 @@
 *.jpg
-mensagem
-envios
+mensagem.txt
+envios.xlsx
+.ipynb_checkpoints
